@@ -1,0 +1,11 @@
+{
+  "MAIL_USER": "<POP3发信邮箱>",
+  "MAIL_PASSWORD": "<POP3发信邮箱密码>",
+  "MAIL_SERVICE": "<POP3发信服务器>",
+  "MAIL_PORT": 465,
+  "DB_NAME": "vendisc",
+  "DB_USERNAME": "root",
+  "DB_PASSWORD": "123456",
+  "DB_HOST": "localhost",
+  "DB_PORT": 3306
+}

@@ -1,0 +1,6 @@
+{
+    "JWT_DEFAULT_SECRET": "netdisc_secret",
+    "JWT_DEFAULT_CONFIG": {
+        "expiresIn": "30 days"
+    }
+}
